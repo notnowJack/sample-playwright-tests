@@ -6,3 +6,4 @@
 - Incorrect Password – Attempt Counter: ??? hours
 - Counter Increases: ??? hours
 - Account Lockout: ??? hours
+- Subsequent Login Attempt After Account Lockout: ??? hours
