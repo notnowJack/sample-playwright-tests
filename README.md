@@ -1,0 +1,8 @@
+- Start Page Check: ??? hours
+- Login Popup Appears: ??? hours
+- Missing Credential: ??? hours
+- Invalid Email Format: ??? hours
+- Incorrect Credentials – Popup: ??? hours
+- Incorrect Password – Attempt Counter: ??? hours
+- Counter Increases: ??? hours
+- Account Lockout: ??? hours
