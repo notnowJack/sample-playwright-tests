@@ -1,7 +1,7 @@
-- Start Page Check: ??? hours
-- Login Popup Appears: ??? hours
-- Missing Credential: ??? hours
-- Invalid Email Format: ??? hours
+- Start Page Check: 1 hour (includes messing around to learn how playwright works)
+- Login Popup Appears: 1.5 hours
+- Missing Credential: 0.25 hours
+- Invalid Email Format: 0.1 hours
 - Incorrect Credentials – Popup: ??? hours
 - Incorrect Password – Attempt Counter: ??? hours
 - Counter Increases: ??? hours
