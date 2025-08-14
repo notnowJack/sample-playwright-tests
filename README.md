@@ -2,8 +2,8 @@
 - Login Popup Appears: 1.5 hours
 - Missing Credential: 0.25 hours
 - Invalid Email Format: 0.1 hours
-- Incorrect Credentials – Popup: ??? hours
+- Incorrect Credentials – Popup: 1 hour
 - Incorrect Password – Attempt Counter: ??? hours
 - Counter Increases: ??? hours
 - Account Lockout: ??? hours
-- Subsequent Login Attempt After Account Lockout: ??? hours
+- Subsequent Login Attempt After Account Lockout: 0.5 hours
